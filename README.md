@@ -14,7 +14,7 @@
 <summary>Detalles del Prototipo 1</summary>
 
 - **Título:** Prototipo 1 - Juego de carro 3D
-- **Repositorio:** [Enlace al Proyecto 1](https://github.com/CreaciondevideojuegosJAGR/prototype1.git)
+- **Repositorio:** [Enlace al Prototipo 1](https://github.com/CreaciondevideojuegosJAGR/prototype1.git)
 - ```bash
   git clone https://github.com/CreaciondevideojuegosJAGR/prototype1.git
 
@@ -39,7 +39,7 @@
 <summary>Detalles del Prototipo 2</summary>
 
 - **Título:** Prototipo 2 - Juego de de granja 3D
-- **Repositorio:** [Enlace al Proyecto 2](https://github.com/CreaciondevideojuegosJAGR/prototype2.git)
+- **Repositorio:** [Enlace al Prototipo 2](https://github.com/CreaciondevideojuegosJAGR/prototype2.git)
 - ```bash
   git clone https://github.com/CreaciondevideojuegosJAGR/prototype2.git
 - **PDF:**
